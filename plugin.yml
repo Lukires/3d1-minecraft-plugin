@@ -1,0 +1,6 @@
+name: xdone
+version: 1.0
+main: com.lukire.main.Main
+description: 2d1 plugin til serveren
+commands:
+ pass:
